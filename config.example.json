@@ -1,0 +1,21 @@
+{
+  "source": "0",
+  "backend": "DSHOW",
+  "mirror": true,
+  "rotation": 0,
+  "sensitivity": 1.4,
+  "smoothing": 0.03,
+  "deadzone": 0.0,
+  "dwell": 0.18,
+  "click_cooldown": 0.65,
+  "pinch_on": 0.28,
+  "pinch_off": 0.42,
+  "scroll_speed": 28.0,
+  "max_speed": 2200.0,
+  "confidence": 0.7,
+  "cursor_only": true,
+  "relaxed_pose": true,
+  "absolute_cursor": true,
+  "auto_resume": true,
+  "roi": [0.0, 0.0, 1.0, 1.0]
+}
